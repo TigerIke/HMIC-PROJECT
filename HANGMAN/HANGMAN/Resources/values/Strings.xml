@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">HANGMAN</string>
+  <string name="longtext">
+    WELCOME!!!
+    What you are about to play is my first Mobile App for Android Applications. This may not be a cool app but what makes it superb is the effort put towards the making of this app. Special credit to my instructor, James, for the untiring help and mentoring. To my family, for the support and understanding.
+    Anyways, enjoy but be mindful of the kids around while playing the game.
+    Rule of the game:
+    You are given a word to guess then you supply a letter after another. You only have 6 tries. If you guessed the word without expiring your 6 tries, then you win. Otherwise, if you consumed all your tries, you lost. Okay, good luck and enjoy! Please press MENU below. Thank You!
+    -	ic (This is just a sample text to show. ;-D)
+  </string>
+</resources>

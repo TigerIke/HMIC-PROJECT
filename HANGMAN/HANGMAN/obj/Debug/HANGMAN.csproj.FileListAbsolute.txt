@@ -1,0 +1,77 @@
+C:\XApps\HANGMAN\HANGMAN\bin\Debug\HANGMAN.dll
+C:\XApps\HANGMAN\HANGMAN\bin\Debug\HANGMAN.pdb
+C:\XApps\HANGMAN\HANGMAN\bin\Debug\HANGMAN.dll.mdb
+C:\XApps\HANGMAN\HANGMAN\bin\Debug\HANGMAN.HANGMAN.apk
+C:\XApps\HANGMAN\HANGMAN\bin\Debug\HANGMAN.HANGMAN-Signed.apk
+C:\XApps\HANGMAN\HANGMAN\obj\Debug\HANGMAN.dll
+C:\XApps\HANGMAN\HANGMAN\obj\Debug\HANGMAN.pdb
+C:\XApps\HANGMAN\HANGMAN\obj\Debug\android\bin\HANGMAN.HANGMAN.apk
+C:\XApps\HANGMAN\HANGMAN\obj\Debug\res\layout\main.xml
+C:\XApps\HANGMAN\HANGMAN\obj\Debug\res\values\strings.xml
+C:\XApps\HANGMAN\HANGMAN\obj\Debug\res\drawable\icon.png
+C:\XApps\HANGMAN\HANGMAN\obj\Debug\res\drawable\hmsetup.jpeg
+C:\XApps\HANGMAN\HANGMAN\obj\Debug\R.cs.flag
+C:\XApps\HANGMAN\HANGMAN\obj\Debug\uploadflags.txt
+C:\XApps\HANGMAN\HANGMAN\obj\Debug\HANGMAN.csprojResolveAssemblyReference.cache
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\bin\Debug\HANGMAN.dll
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\bin\Debug\HANGMAN.pdb
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\bin\Debug\HANGMAN.dll.mdb
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\bin\Debug\HANGMAN.HANGMAN.apk
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\bin\Debug\HANGMAN.HANGMAN-Signed.apk
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\HANGMAN.dll
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\HANGMAN.pdb
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\android\bin\HANGMAN.HANGMAN.apk
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\layout\main.xml
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\values\strings.xml
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\drawable\hmsetup3.png
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\R.cs.flag
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\uploadflags.txt
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\layout\game.xml
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\layout\score.xml
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\drawable\lostimage.jpg
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\drawable\winimage.jpeg
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\drawable\icon.png
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\drawable\hangman12.png
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\drawable\hangman11.png
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\drawable\hangman10.png
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\drawable\hangman9.png
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\drawable\hangman8.png
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\drawable\hangman7.png
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\drawable\hangman6.png
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\drawable\freeman.png
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\layout\info.xml
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\layout\highscore.xml
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\res\layout\customrowhs.xml
+C:\XApps\ASSESSMENT\HANGMAN\HANGMAN\obj\Debug\HANGMAN.csprojResolveAssemblyReference.cache
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\bin\Debug\HANGMAN.dll
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\bin\Debug\HANGMAN.pdb
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\bin\Debug\HANGMAN.dll.mdb
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\bin\Debug\HANGMAN.HANGMAN.apk
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\bin\Debug\HANGMAN.HANGMAN-Signed.apk
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\HANGMAN.dll
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\HANGMAN.pdb
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\android\bin\HANGMAN.HANGMAN.apk
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\layout\game.xml
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\layout\score.xml
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\layout\info.xml
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\layout\highscore.xml
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\layout\customrowhs.xml
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\layout\main.xml
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\values\strings.xml
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\drawable\hmsetup3.png
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\drawable\lostimage.jpg
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\drawable\winimage.jpeg
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\drawable\icon.png
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\drawable\hangman12.png
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\drawable\hangman11.png
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\drawable\hangman10.png
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\drawable\hangman9.png
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\drawable\hangman8.png
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\drawable\hangman7.png
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\drawable\hangman6.png
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\drawable\freeman.png
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\R.cs.flag
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\uploadflags.txt
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\HANGMAN.csprojResolveAssemblyReference.cache
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\values\splashxml.xml
+C:\Users\IanC\Documents\ASSESSMENT #5\HANGMAN\HANGMAN\obj\Debug\res\drawable\tigersplash.jpeg

@@ -1,0 +1,28 @@
+HANGMAN.DataAdapter, HANGMAN;md5af90488e9d786a7efad9952a5283e33d.DataAdapter
+HANGMAN.DataAdapter, HANGMAN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af90488e9d786a7efad9952a5283e33d.DataAdapter
+HANGMAN.DataAdapter;md5af90488e9d786a7efad9952a5283e33d.DataAdapter
+hangman.DataAdapter;md5af90488e9d786a7efad9952a5283e33d.DataAdapter
+HANGMAN.GameActivity, HANGMAN;md5af90488e9d786a7efad9952a5283e33d.GameActivity
+HANGMAN.GameActivity, HANGMAN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af90488e9d786a7efad9952a5283e33d.GameActivity
+HANGMAN.GameActivity;md5af90488e9d786a7efad9952a5283e33d.GameActivity
+hangman.GameActivity;md5af90488e9d786a7efad9952a5283e33d.GameActivity
+HANGMAN.HighScoreActivity, HANGMAN;md5af90488e9d786a7efad9952a5283e33d.HighScoreActivity
+HANGMAN.HighScoreActivity, HANGMAN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af90488e9d786a7efad9952a5283e33d.HighScoreActivity
+HANGMAN.HighScoreActivity;md5af90488e9d786a7efad9952a5283e33d.HighScoreActivity
+hangman.HighScoreActivity;md5af90488e9d786a7efad9952a5283e33d.HighScoreActivity
+HANGMAN.InfoActivity, HANGMAN;md5af90488e9d786a7efad9952a5283e33d.InfoActivity
+HANGMAN.InfoActivity, HANGMAN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af90488e9d786a7efad9952a5283e33d.InfoActivity
+HANGMAN.InfoActivity;md5af90488e9d786a7efad9952a5283e33d.InfoActivity
+hangman.InfoActivity;md5af90488e9d786a7efad9952a5283e33d.InfoActivity
+HANGMAN.MainActivity, HANGMAN;md5af90488e9d786a7efad9952a5283e33d.MainActivity
+HANGMAN.MainActivity, HANGMAN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af90488e9d786a7efad9952a5283e33d.MainActivity
+HANGMAN.MainActivity;md5af90488e9d786a7efad9952a5283e33d.MainActivity
+hangman.MainActivity;md5af90488e9d786a7efad9952a5283e33d.MainActivity
+HANGMAN.ScoreActivity, HANGMAN;md5af90488e9d786a7efad9952a5283e33d.ScoreActivity
+HANGMAN.ScoreActivity, HANGMAN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af90488e9d786a7efad9952a5283e33d.ScoreActivity
+HANGMAN.ScoreActivity;md5af90488e9d786a7efad9952a5283e33d.ScoreActivity
+hangman.ScoreActivity;md5af90488e9d786a7efad9952a5283e33d.ScoreActivity
+HANGMAN.SplashActivity, HANGMAN;md5af90488e9d786a7efad9952a5283e33d.SplashActivity
+HANGMAN.SplashActivity, HANGMAN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5af90488e9d786a7efad9952a5283e33d.SplashActivity
+HANGMAN.SplashActivity;md5af90488e9d786a7efad9952a5283e33d.SplashActivity
+hangman.SplashActivity;md5af90488e9d786a7efad9952a5283e33d.SplashActivity

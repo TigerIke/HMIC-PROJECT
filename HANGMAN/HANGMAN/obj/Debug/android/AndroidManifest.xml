@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="HANGMAN.HANGMAN" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:minSdkVersion="11" />
+  <application android:label="HANGMAN" android:icon="@drawable/icon" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:icon="@drawable/hmsetup3" android:label="GameActivity" android:screenOrientation="portrait" android:name="md5af90488e9d786a7efad9952a5283e33d.GameActivity" />
+    <activity android:icon="@drawable/hmsetup3" android:label="HighScoreActivity" android:screenOrientation="portrait" android:name="md5af90488e9d786a7efad9952a5283e33d.HighScoreActivity" />
+    <activity android:icon="@drawable/hmsetup3" android:label="InfoActivity" android:screenOrientation="portrait" android:name="md5af90488e9d786a7efad9952a5283e33d.InfoActivity" />
+    <activity android:icon="@drawable/hmsetup3" android:label="HANGMAN" android:screenOrientation="portrait" android:name="md5af90488e9d786a7efad9952a5283e33d.MainActivity" />
+    <activity android:icon="@drawable/hmsetup3" android:label="ScoreActivity" android:screenOrientation="portrait" android:name="md5af90488e9d786a7efad9952a5283e33d.ScoreActivity" />
+    <activity android:icon="@drawable/hmsetup3" android:noHistory="true" android:theme="@style/Theme.Splash" android:name="md5af90488e9d786a7efad9952a5283e33d.SplashActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="HANGMAN.HANGMAN.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.HANGMAN.HANGMAN" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
